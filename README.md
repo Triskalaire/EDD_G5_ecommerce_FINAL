@@ -9,3 +9,5 @@ mpd : 1234
 role : data_analyst pour avoir uniquement le droit de voir la vue v_customers_masked (qui masque l'email en partie)
 
 sinon les roles jlecuyer & postgres sont des rôles superadmin
+
+Le dossier "Data" est là pour avoir les versions CSV des tables et des vues 
